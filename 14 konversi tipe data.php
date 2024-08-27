@@ -15,4 +15,4 @@ $b = (int)$b;
 $c = $b * $a;
 echo "<p>";
 
-echo $c;
+echo "<h1>".$c;
