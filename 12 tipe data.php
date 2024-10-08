@@ -10,7 +10,7 @@ echo $c;
 $jenis_kelamin = 'L';
 
 // tipe data string (teks)
-$nama_lengkap = "Ahmadi";
+$nama_lengkap = "sultan";
 
 // tipe data integer
 $umur = 20;
